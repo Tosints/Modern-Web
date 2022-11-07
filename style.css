@@ -87,8 +87,26 @@ nav ul li a {
     margin-right: 25px;
 }
 
+.feature-img {
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    right: 160px;
+}
 
+.social-links {
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -40px;
+    bottom: 155px;
+}
 
+.social-links a {
+    text-decoration: none;
+    color: #6a7199;
+    padding-right: 20px;
+    font-size: 16px;
+}
 
 
 
